@@ -53,7 +53,7 @@ header nav{
 /*-- Section 1 --*/
 .Sec1Div{
     width: 1440px;
-    background-image: url(../images/BgMain.svg);
+    background-image: url("../img/Sec1__BG2.png");
     height: 724px;
     padding-top: 245px;
     display: flex;
@@ -199,14 +199,14 @@ h1{
 .Sec4Div{
     width: 1440px;
     height: 600px;
-    background-image: url(../images/HouseBg.png);
+    background-image: url("../img/Sec4__background.png");
     padding: 230px 105px 0 0;
     display: flex;
     flex-direction: column;
     align-items: flex-end;
 }
 .Sec4Div:hover{
-    background-image: url(../images/BackgroundHouseOpacity.png);
+    background-image: url("../img/Sec4__background.png");
 }
 .Sec4Div:hover a{
     visibility: visible;
@@ -327,7 +327,7 @@ h1{
     box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.3);
 }
 .PhotoOfTheHouse{
-    width: auto;
+    width: 379px;
     height: 267px;
 }
 .ShowAllListings{
